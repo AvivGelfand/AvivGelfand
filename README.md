@@ -6,6 +6,7 @@
 - 🌱 I’m currently studying B.Sc in Statistics & Data Science
 - 🔜 Got a python data analysis project coming up 
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
+- 🧑🏼‍💻 looking for a student position to start this summer (august-2022)
 
 
 <!---
