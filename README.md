@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @AvivGelfand
+ <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="500" height="320" />
+
+
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently studying B.Sc in Statistics & Data Science
 - 🔜 Got a python data analysis project coming up 
