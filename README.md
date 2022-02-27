@@ -7,7 +7,9 @@
 - 🔜 Got a python data analysis project coming up 
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 - 🧑🏼‍💻 looking for a student position to start this summer (august-2022)
+<br> </br>
 
+### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="pandas" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/pandas2.png?raw=true" />
