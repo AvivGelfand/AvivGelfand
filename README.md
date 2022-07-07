@@ -1,9 +1,8 @@
  <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="400" height="320" /> <p></p>
-### Hello World, I'm Aviv👋
+## Hello World, I'm Aviv👋
 
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently studying B.Sc in Statistics & Data Science
-- 🔜 Got a python data analysis project coming up, stay tunded!
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 ## Latest Projects  🧑🏼‍💻 
 * Here is my resent project in [Textual Statistical Analysis, Sampling and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
@@ -11,7 +10,7 @@
 
 <br> </br>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="pandas" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/pandas2.png?raw=true" />
