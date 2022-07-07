@@ -5,7 +5,10 @@
 - 🌱 I’m currently studying B.Sc in Statistics & Data Science
 - 🔜 Got a python data analysis project coming up, stay tunded!
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
-- 🧑🏼‍💻 looking for a student position to start this summer (august-2022)
+## Latest Projects  🧑🏼‍💻 
+* Here is my resent project in [Textual Statistical Analysis, Sampling and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
+
+
 <br> </br>
 
 ### Languages and Tools:
