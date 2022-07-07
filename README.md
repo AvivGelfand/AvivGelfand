@@ -6,6 +6,7 @@
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 ## Latest Projects  🧑🏼‍💻 
 * Here is my resent project in [Textual Statistical Analysis, Sampling and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
+* An R project for Basic [Data Wrangling Distributions and Plotting](https://rpubs.com/Aviv_Gelfand/Basic_Data_Wrangling_and_Plotting_Distributions)
 
 
 <br> </br>
