@@ -8,6 +8,7 @@
 * Here is my resent project in [Textual Statistical Analysis, Sampling and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
 * An R project for Basic [Data Wrangling Distributions and Plotting](https://rpubs.com/Aviv_Gelfand/Basic_Data_Wrangling_and_Plotting_Distributions)
 
+https://docs.google.com/document/d/1cMjMLSK1ZxERUOfXweSX2VTANAKYwRIa/edit?usp=share_link&ouid=107337065825767044514&rtpof=true&sd=true
 
 <br> </br>
 
