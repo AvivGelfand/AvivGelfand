@@ -5,6 +5,7 @@
 - 🌱 I’m currently studying B.Sc in Statistics & Data Science
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 ## Latest Projects  🧑🏼‍💻 
+* [De Grandmizer Shtick!](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) - A Generative AI project integrating CV, Text2Text and Text2Speech.
 * A [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
 * Here is my resent project in [Textual Statistical Analysis, Sampling and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
 * An R project for Basic [Data Wrangling Distributions and Plotting](https://rpubs.com/Aviv_Gelfand/Basic_Data_Wrangling_and_Plotting_Distributions)
