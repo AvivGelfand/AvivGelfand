@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="300" height="260" /> <p></p>
+ <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="300" height="220" /> <p></p>
 ## Hello World, I'm Aviv👋
 
 - 👀 I’m interested in Data Science and Data Analysis
