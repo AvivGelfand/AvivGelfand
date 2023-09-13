@@ -1,8 +1,8 @@
  <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="300" height="220" /> <p></p>
 ## Hello World, I'm Aviv👋
 
-- 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently studying B.Sc in Statistics & Data Science
+- 👀 I’m a junior Data Scientist
+- 🌱 Currently studying B.Sc in Statistics & Data Science
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
 ## Check Out My Latest Work! 🧑🏼‍💻 
