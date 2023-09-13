@@ -1,6 +1,6 @@
- <img align="right" alt="GIF" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/glasses.gif?raw=true" width="300" height="220" /> <p></p>
+ <img align="right" alt="GIF" src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="300" height="220" /> <p></p>
 ## Hello World, I'm Aviv👋
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+
 - 👀 I’m a junior Data Scientist
 - 🌱 Currently studying B.Sc in Statistics & Data Science
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
