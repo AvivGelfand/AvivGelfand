@@ -7,7 +7,8 @@
 
 ## Check Out My Latest Work! 🧑🏼‍💻 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text2Text and Text2Speech.
-* A [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
+<img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="200" height="180" /> 
+* Alfred, a personal [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
 * A project in [Textual Statistical Analysis, Sampling, and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
 
 <br> </br>
