@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="300" height="220" /> <p></p>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300" height="220" /> <p></p>
 ## Hello World, I'm Aviv👋
 
 - 👀 I’m a junior Data Scientist
