@@ -2,7 +2,7 @@
 ## Hello World, I'm Aviv👋
 
 - 👀 I’m a junior Data Scientist
-- 🌱 Currently studying B.Sc in Statistics & Data Science
+- 🌱 Currently studying a B.Sc in Statistics & Data Science at HUJI
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
 ## Check Out My Latest Work! 🧑🏼‍💻 
