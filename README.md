@@ -2,7 +2,7 @@
 ## Hello World, I'm Aviv👋
 
 - 👀 Data science enthusiast with a proven ability to apply data science techniques to solve real-world problems
-- 🌱 Currently studying a B.Sc in Statistics & Data Science at HUJI
+- 🌱 Currently at my last year studying a B.Sc in Statistics & Data Science at HUJI
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
 ## Check Out My Latest Work! 🧑🏼‍💻 
