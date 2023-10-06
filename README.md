@@ -1,7 +1,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300" height="220" /> <p></p>
 ## Hello World, I'm Aviv👋
 
-- 👀 I’m a junior Data Scientist
+- 👀 Data science enthusiast with a proven ability to apply data science techniques to solve real-world problems
 - 🌱 Currently studying a B.Sc in Statistics & Data Science at HUJI
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
