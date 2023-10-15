@@ -1,5 +1,5 @@
 ## Hello World, I'm Aviv👋
-<img style="float: left; margin-right: 100px;" align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" height="110"  margin-right=100 />
+<img style="float: left; margin-right: 100px;" align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180" height="130"  margin-right=100 />
 
 - 👀 Data science enthusiast with a proven ability to apply programming, machine learning, and statistics to solve real-world problems.
 - 🌱 Currently at my last year studying a B.Sc in Statistics & Data Science at HUJI.
