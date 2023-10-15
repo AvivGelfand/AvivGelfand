@@ -6,7 +6,7 @@
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
 ## My Latest Projects: 🧑🏼‍💻 
-* [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text2Text and Text2Speech.<p></p>
+* [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
 
 * [Convolutional Neural Networks (CNN) ](https://github.com/AvivGelfand/CNN-Image-Classification-Challange) - CIFAR-10 Classifier, as part of my autodidactive journey.
