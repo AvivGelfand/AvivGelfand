@@ -9,9 +9,9 @@
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text2Text and Text2Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="200" height="180"  align="center" /> <p></p>
 
-* 600K Songs Machine Learning Project - a Work in progress 
+* [Song Popularity Prediction](https://github.com/AvivGelfand/Predicting-Song-Popularity) using various Machine Learning Regression Models.
 * Alfred, a personal [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
-* A project in [Textual Statistical Analysis, Sampling, and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R)
+* A project in [Textual Statistical Analysis, Sampling, and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R).
 
 <br> </br>
 
