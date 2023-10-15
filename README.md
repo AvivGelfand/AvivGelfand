@@ -12,6 +12,7 @@
 * [Song Popularity Prediction](https://github.com/AvivGelfand/Predicting-Song-Popularity) using various Machine Learning Regression Models.
 * Alfred, a personal [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
 * A project in [Textual Statistical Analysis, Sampling, and Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R).
+* Final Exam in Data Analysis with R course - [Analysis and visualization of earthquake geographical data](https://rpubs.com/Aviv_Gelfand/R_Final_Exam/).
 
 <br> </br>
 
