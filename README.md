@@ -5,7 +5,7 @@
 - 🌱 Currently at my last year studying a B.Sc in Statistics & Data Science at HUJI.
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
-## Check Out My Latest Work! 🧑🏼‍💻 
+## Check Out Some of My Work! 🧑🏼‍💻 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text2Text and Text2Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
 
