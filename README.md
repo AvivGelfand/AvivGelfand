@@ -2,10 +2,10 @@
 <img style="float: left; margin-right: 100px;" align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180" height="130"  margin-right=100 />
 
 - 👀 Data science enthusiast with a proven ability to apply programming, machine learning, and statistics to solve real-world problems.
-- 🌱 Currently at my last year studying a B.Sc in Statistics & Data Science at HUJI.
+- 🌱 I am in my last year studying for a B.Sc in Statistics & Data Science at HUJI.
 - 📬 You can reach me at [linkedin](https://www.linkedin.com/in/aviv-gelfand/)
 
-## Check Out Some of My Work! 🧑🏼‍💻 
+## My Latest Projects: 🧑🏼‍💻 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text2Text and Text2Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
 
