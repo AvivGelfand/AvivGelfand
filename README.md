@@ -1,5 +1,5 @@
 # Hello! I'm Aviv👋 Check Out My Latest Projects: 🧑🏼‍💻 
-<img style="float: left; margin-right: 100px;" align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180" height="130"  margin-right=100 />
+
 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
@@ -14,7 +14,6 @@
 <br> </br>
 
 ## Languages and Tools:
-
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/aef1f949-99b3-495c-b209-34eddfe6cb7c" />
 <img align="left" alt="ScikitLearn" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/6b530070-bb27-4705-b835-ad21f8e50281" />
@@ -27,6 +26,8 @@
 <!--- <img align="left" alt="GitHub" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/blob/main/648256.png?raw=true" />  githubicon --->
 <img align="left" alt="ChatGPT" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/2637dbee-dc47-4b36-9c35-5838d42c33c9" />
 <img align="left" alt="StackOverflowRIP" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/cbdfaf3d-a06e-4d37-81fb-fc55fc0547da" />
+<br> </br>
+<img align="left" alt="EatingDataGiff" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180" height="130"   />
 
 
 <!---
