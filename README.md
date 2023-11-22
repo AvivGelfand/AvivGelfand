@@ -4,7 +4,7 @@
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
 
-* **Alfred**, a personal [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
+* **Alfred**🤵🏼, a personal [Scarping and Telegram notifier](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
 * [A Deeper Learning of Deep Learning](https://github.com/AvivGelfand/tracking_neural_network_claulations) - trying to visualize and learn about how weights are being shaped.
 * [Convolutional Neural Networks (CNN) ](https://github.com/AvivGelfand/CNN-Image-Classification-Challange) - CIFAR-10 Classifier, as part of my autodidactive journey.
 * [Predicting Song Popularity](https://github.com/AvivGelfand/Predicting-Song-Popularity) using various Machine Learning Regression Models.
