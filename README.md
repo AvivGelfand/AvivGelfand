@@ -1,4 +1,4 @@
-# Hello! I'm Aviv👋 Check Out My Latest Projects: 🧑🏼‍💻 
+# Hello!👋 Check Out My Latest Projects: 🧑🏼‍💻 
 
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p>
 * [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
