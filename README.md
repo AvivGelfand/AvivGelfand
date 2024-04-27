@@ -1,6 +1,7 @@
 # Hello! I'm Aviv👋 Check Out My Latest Projects: 🧑🏼‍💻 
 
-
+* [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts I used in my NLP Data Scientist role at HebrewU. <p></p>
+* [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior.<p></p>
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
 
