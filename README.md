@@ -5,7 +5,7 @@
 <img  alt="Schema" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/dc683d56-7abd-4482-8870-f4fffb60f890"  width="350" align="center" /> <p></p>
 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
-<img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <p></p>
+<img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="155" height="120"  align="center" /> <img  alt="Grandma" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/e7962c52-f46a-4f18-b1d4-d3c0deb1c2d7"  width="135" height="120"  align="center" /> <p></p>
 
 * **Alfred**🤵🏼, a Aersonal Assitant that [Scarpes and  notifies on telegram](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
 * [A Deeper Learning of Deep Learning](https://github.com/AvivGelfand/tracking_neural_network_claulations) - trying to visualize and learn about how weights are being shaped.
