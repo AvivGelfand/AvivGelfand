@@ -1,6 +1,9 @@
 # Hello!👋 Check Out My Latest Projects: 🧑🏼‍💻 
 
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p>
+<img  alt="Metrics" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/a540e862-b453-4afd-b255-20a36bba6fbe"  width="500" align="center" /> <p></p>
+
+
 * [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/dc683d56-7abd-4482-8870-f4fffb60f890"  width="350" align="center" /> <p></p>
 
