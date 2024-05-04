@@ -1,4 +1,4 @@
-# Hello!👋 Check Out My Latest Projects: 🧑🏼‍💻 
+# Hello!👋 Check Out My Latest Projects: 
 
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p>
 <img  alt="Metrics" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/a540e862-b453-4afd-b255-20a36bba6fbe"  width="600" align="center" /> <p></p>
@@ -32,6 +32,7 @@
 <img align="left" alt="ChatGPT" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/2637dbee-dc47-4b36-9c35-5838d42c33c9" />
 <img align="left" alt="StackOverflowRIP" width="26px" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/cbdfaf3d-a06e-4d37-81fb-fc55fc0547da" />
 <br></br>
+
 <img align="left" alt="EatingDataGiff" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180" height="140"   />
 
 
