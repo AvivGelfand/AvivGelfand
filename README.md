@@ -1,12 +1,16 @@
 # Hello!👋 Check Out My Latest Projects: 
 
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p>
-<img  alt="Metrics" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/a540e862-b453-4afd-b255-20a36bba6fbe"  width="600" align="center" /> <p></p>
+<img  alt="Metrics" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/a540e862-b453-4afd-b255-20a36bba6fbe"  width="700" align="center" /> <p></p>
 
 
 * [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/dc683d56-7abd-4482-8870-f4fffb60f890"  width="350" align="center" /> <p></p>
 
+* [Geometry of Information Course Tasks](https://github.com/AvivGelfand/Geometry-of-Information-Course) - covering kernel-based methods, spectral graph theory, clustering algorithms (K-means, Spectral), manifold learning and graph signal processing. <p></p>
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/caf61e36-73c8-439e-bedd-fd34d9ea673c"  width="200" align="center" /> 
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/9e88ae59-c0f5-4861-8b77-e9254314f048"  width="200" align="center" /> 
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="485" align="center" /> <p></p>
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <img  alt="Grandma" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/e7962c52-f46a-4f18-b1d4-d3c0deb1c2d7"  width="150" height="120"  align="center" /> <p></p>
 
