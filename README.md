@@ -11,6 +11,7 @@
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/caf61e36-73c8-439e-bedd-fd34d9ea673c"  width="200" align="center" /> 
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/9e88ae59-c0f5-4861-8b77-e9254314f048"  width="200" align="center" /> 
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="485" align="center" /> <p></p>
+
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <img  alt="Grandma" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/e7962c52-f46a-4f18-b1d4-d3c0deb1c2d7"  width="150" height="120"  align="center" /> <p></p>
 
