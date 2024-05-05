@@ -7,9 +7,8 @@
 * [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/dc683d56-7abd-4482-8870-f4fffb60f890"  width="350" align="center" /> <p></p>
 
-* [Geometry of Information Course Tasks](https://github.com/AvivGelfand/Geometry-of-Information-Course) - covering kernel-based methods, spectral graph theory, clustering algorithms (K-means, Spectral), manifold learning and graph signal processing. <p></p>
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/caf61e36-73c8-439e-bedd-fd34d9ea673c"  width="200" align="center" /> 
-<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/9e88ae59-c0f5-4861-8b77-e9254314f048"  width="200" align="center" /> 
+* [Geometry of Information Course Tasks](https://github.com/AvivGelfand/Geometry-of-Information-Course) - covering kernel-based methods, spectral graph theory, clustering algorithms (K-means, Spectral), manifold learning and graph signal processing.<p></p><img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/caf61e36-73c8-439e-bedd-fd34d9ea673c"  width="200" align="center" /> 
+<img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/9e88ae59-c0f5-4861-8b77-e9254314f048"  width="200" align="center" /> <p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="600" align="center" /> <p></p>
 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
