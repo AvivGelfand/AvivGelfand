@@ -16,9 +16,8 @@
 <img  alt="Grandma" src="https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23/blob/master/images/De_Grandmizer_Shtick_photo.jpg" width="135" height="120"  align="center" /> <img  alt="Grandma" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/e7962c52-f46a-4f18-b1d4-d3c0deb1c2d7"  width="150" height="120"  align="center" /> <p></p>
 
 * **Alfred**🤵🏼, a A Personal Assitant that [Scarpes and  notifies on telegram](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site.
-* [A Deeper Learning of Deep Learning](https://github.com/AvivGelfand/tracking_neural_network_claulations) - trying to visualize and learn about how weights are being shaped.
 * [Predicting Song Popularity](https://github.com/AvivGelfand/Predicting-Song-Popularity) using various Machine Learning Regression Models.
-* [Employee Retention Classifier](https://github.com/AvivGelfand/Employee-Leaving-Classification-Challange/blob/main/Employee%20Retention%20Prediction.ipynb) - A classification challenge with Machine Learning and Deep Learning.
+* [A Deeper Learning of Deep Learning](https://github.com/AvivGelfand/tracking_neural_network_claulations) - trying to visualize and learn about how weights are being shaped.
 * A project in [Textual Statistical Analysis, Sampling, and Statistical Inference ](https://rpubs.com/Aviv_Gelfand/Lab_2_R).
 * Final Exam in Data Analysis with R course - [Analysis and visualization of earthquake geographical data](https://rpubs.com/Aviv_Gelfand/R_Final_Exam/).
 
