@@ -3,7 +3,7 @@
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p> <img  alt="PresentingPoster" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/cbcfc455-67f1-4838-b218-389943dcb0fd"  width="280" align="center" /> <img  alt="Poster" src="https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models/assets/63909805/062213e5-2f62-4a9d-8076-65b8b277be94"  width="305" align="center" /> <p></p>
 
 
-* [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/tree/main) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
+* [Driver Behavior Detection Using Smartphone Signals](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals/blob/main/Our%20Full%20Research%20Report.pdf) - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets..<p></p>
 <img  alt="Schema" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/dc683d56-7abd-4482-8870-f4fffb60f890"  width="350" align="center" /> <p></p>
 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
