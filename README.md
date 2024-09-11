@@ -11,7 +11,7 @@
 <img  alt="Schema" src="https://github.com/AvivGelfand/Geometry-of-Information-Course/assets/63909805/4983d174-50e0-4fda-bf22-592865b96c1c"  width="610" height="200" align="center" /> <p></p>
 
 * [Semantic Caching for LLM-Based Applications](https://github.com/AvivGelfand/Semantic-Caching-for-LLM-Based-Applications) - A small research project for a University course showcasing the effectiveness of caching in textual tasks involving language models. <p></p>
-  <img width="290" alt="Screenshot 2024-09-11 at 16 43 16" src="https://github.com/user-attachments/assets/5e9eaa7b-b94e-4ff6-9591-dc87552da793">  <img width="361" alt="Screenshot 2024-09-11 at 16 44 26" src="https://github.com/user-attachments/assets/0b07239f-ba14-4edf-96d8-8fd22dfd8c8c">
+  <img width="240" alt="Screenshot 2024-09-11 at 16 43 16" src="https://github.com/user-attachments/assets/5e9eaa7b-b94e-4ff6-9591-dc87552da793">  <img width="330" alt="Screenshot 2024-09-11 at 16 44 26" src="https://github.com/user-attachments/assets/0b07239f-ba14-4edf-96d8-8fd22dfd8c8c">
 
 
 * [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating CV, Text-2-Text and Text-2-Speech.<p></p>
