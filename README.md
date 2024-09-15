@@ -1,4 +1,4 @@
-# Check Out My Latest Projects: 
+# Check Out My Favorite Projects: 
 
 * [Fine-tuning Large Language Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) such as llama-2-7B, llama-2-7B-instruct, and some lighter models like RoBERTa, DistillBERT, and others for labeling texts in my role as NLP Data Scientist at HebrewU. <p></p> <img  alt="PresentingPoster" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/cbcfc455-67f1-4838-b218-389943dcb0fd"  width="280" align="center" /> <img  alt="Poster" src="https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models/assets/63909805/062213e5-2f62-4a9d-8076-65b8b277be94"  width="305" align="center" /> <p></p>
 
