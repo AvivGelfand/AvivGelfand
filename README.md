@@ -14,7 +14,7 @@
   <img width="240" alt="Screenshot 2024-09-11 at 16 43 16" src="https://github.com/user-attachments/assets/5e9eaa7b-b94e-4ff6-9591-dc87552da793">  <img width="300" alt="Screenshot 2024-09-11 at 16 44 26" src="https://github.com/user-attachments/assets/0b07239f-ba14-4edf-96d8-8fd22dfd8c8c">
 
 
-* [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating Text-to-Text and Text-to-Speech and Computer Vision.<p></p>
+* [De Grandmizer Shtick!](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23) - A Generative AI HebrewU CS Hackathon project integrating Text-to-Text, Text-to-Speech and Computer Vision.<p></p>
 <img  alt="Grandma" src="https://github.com/user-attachments/assets/a7b8e068-b13d-43b3-bbc3-163aeae4b1c3" width="100" height="90"  align="center" /> <img  alt="Grandma" src="https://github.com/AvivGelfand/AvivGelfand/assets/63909805/e7962c52-f46a-4f18-b1d4-d3c0deb1c2d7"  width="240" height="150"  align="center" /> <img  alt="Grandma" src="https://github.com/user-attachments/assets/8e2b85e4-1e35-45c3-8926-c9068bf45b7e"  width="320" height="150"  align="center" /> <p></p>
 
 * **Alfred**🤵🏼, a A Personal Assitant that [Scarpes and  notifies on telegram](https://github.com/AvivGelfand/HUJI-Moodle-Bot/tree/main) for new tasks on university moodle site. It also proved to be very useful when running scripts for a long time and wanting to get alerts and updates remotely.<p></p>
